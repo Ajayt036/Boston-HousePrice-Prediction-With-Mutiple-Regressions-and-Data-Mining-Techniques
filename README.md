@@ -31,6 +31,6 @@ from dmba import adjusted_r2_score, AIC_score, BIC_score
 
 ## Tool Used:
 
-1. Ananocda: Jupyter Notebook
+Ananocda: Jupyter Notebook
 
 
